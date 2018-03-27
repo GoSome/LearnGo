@@ -1,2 +1,2 @@
 # LearnGo
-We are New to Go
+We are Ready to Go
